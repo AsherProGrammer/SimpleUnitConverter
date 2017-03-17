@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Simple Unit Converter</string>
+    <string name="git"><a href="https://github.com/AsherProGrammer">Created by Asher Niu @2017 </a></string>
+    <string name="myemail">asherniu@gmail.com</string>
+    <string-array name="types">
+        <item>Area</item>
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Speed</item>
+        <item>Temperature</item>
+        <item>Volume</item>
+    </string-array>
+    <string-array name="Area">
+        <item>Square mile</item>
+        <item>Square kilometer</item>
+    </string-array>
+    <string-array name="Length">
+        <item>Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+    <string-array name="Mass">
+        <item>Pound</item>
+        <item>Kilogram</item>
+    </string-array>
+    <string-array name="Speed">
+        <item>MPH</item>
+        <item>KPH</item>
+    </string-array>
+    <string-array name="Temperature">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+    <string-array name="Volume">
+        <item>Gallon</item>
+        <item>Liter</item>
+    </string-array>
+
+
+</resources>
